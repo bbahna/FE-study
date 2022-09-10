@@ -10,7 +10,8 @@
  - [Git 기본 명령어들](https://bbahna.github.io/git-basic)
  - [JavaScript 런타임 환경 Node.js](https://bbahna.github.io/why-nodejs)
  - [Create-React-App](https://bbahna.github.io/why-react)
- - 쿠키, 세션, 토큰(JWT) <br/>-<br/>
+ - [쿠키, 세션, 토큰(JWT)](https://bbahna.github.io/http-network)
+   <br/>-<br/>
  - web publisher, frontend, backends
  - UI/UX를 고려한 디자인
  - 정보처리기사
