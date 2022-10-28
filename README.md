@@ -1,4 +1,4 @@
-# TIL(Today I Learned)
+## TIL(Today I Learned)
  > **'기억보단 기록을'** *bbahna.github.io*
 ```2022.4~12 scheduled to blogging```
  - [웹 동작원리, http란?](https://bbahna.github.io/web-http)
@@ -12,7 +12,7 @@
  - [Create-React-App](https://bbahna.github.io/why-react)
  - [쿠키, 세션, 토큰(JWT)](https://bbahna.github.io/http-network)
    <br/>-<br/>
- - web publisher, frontend, backends
+ - web publisher, frontend, backend
  - UI/UX를 고려한 디자인
  - 정보처리기사
  - Startup ~Seed>seriesA>B>C
