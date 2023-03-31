@@ -5,5 +5,6 @@
 - [TypeScript](/typescript/README.md)
 - [React](/react/README.md)
 - [React Native](/react-native/README.md)
+- [Next](/next/README.md)
 - [Blog](/blog/README.md)
 - [Git](/git/README.md)
