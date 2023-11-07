@@ -3,7 +3,7 @@
 
 ```2022.4~12 scheduled to blogging```
  - [웹 동작원리, http란?](https://bbahna.github.io/web-http)
- - [JavaScript 엔진(V8, Spider Monkey)](https://bbahna.github.io/avascript-engine)
+ - [JavaScript 엔진(V8, Spider Monkey)](https://bbahna.github.io/javascript-engine)
  - [HTML, DOM 차이](https://bbahna.github.io/html-dom)
  - [Gatsby/Next/Nuxt ~JAMStack](https://bbahna.github.io/js-framework)
  - [Github page 배포](https://bbahna.github.io/github-page)
